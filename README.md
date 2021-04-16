@@ -1,2 +1,2 @@
-# CS871-Machine-Learning-
+# CS871-Machine-Learning
 Assignments and Project (if any)
